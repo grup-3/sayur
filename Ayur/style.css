@@ -1,0 +1,30 @@
+body{
+    background-color: #fff;
+}
+
+.card{
+    width: 400px;
+    height: 500px;
+}
+
+.about{
+    align-items: center;
+}
+
+/* .navbar{
+    font-family: 'Poppins', sans-serif;
+} */
+
+
+.img-fluid{
+    width: 1000px;
+    align-items: center;
+}
+
+footer{
+    background-color: #219F94;
+    margin: auto;
+    padding-top: 100px;
+}
+
+
